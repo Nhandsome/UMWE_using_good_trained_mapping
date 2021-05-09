@@ -1,6 +1,9 @@
 ## Unsupervise Multilingual Word Embeddings(UMWE) using GOOD trained mappings
 
-[UMWE_GOOD_TRAINED_MAPPING](https://github.com/Nhandsome/UMWE_using_good_trained_mapping/blob/main/docs/210510.pdf)
+## Describtion
+- [UMWE_GOOD_TRAINED_MAPPING_PPT](https://github.com/Nhandsome/UMWE_using_good_trained_mapping/blob/main/docs/210510.pdf)
+## How to use
+- [0.UMWE_han_explain](https://github.com/Nhandsome/UMWE_using_good_trained_mapping/blob/main/0.UMWE_han_explain.ipynb)
 
 ## License
 The Original Code from [**Unsupervised Multilingual Word Embeddings**](http://aclweb.org/anthology/D18-1024)
